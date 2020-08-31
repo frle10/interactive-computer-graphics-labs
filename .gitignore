@@ -1,0 +1,8 @@
+*.exe
+.vscode
+.html
+
+**/glm/
+**/include/
+**/lib/
+*.dll
